@@ -6,14 +6,14 @@ i.e. (horizontally, vertically, and diagonally).
 
 The function uses 2D List, for loops and def function. 
 
-For example, when the input 2D mine grid represents:
+For example, when the input 2D mine grid represents:\
 [["-", "#", "-", "-", "-"],\
 ["#", "-", "#", "#", "-"],\
 ["-", "-", "-", "-", "#"],\
 ["-", "-", "-", "#", "-"],\
 ["#", "-", "#", "-", "-"],]\
 
-The output will be:
+The output will be:\
 ['2', '#', '3', '2', '1']\
 ['#', '3', '#', '#', '2']\
 ['1', '2', '3', '4', '#']\
